@@ -1,2 +1,2 @@
 # gaaame
-[game ^-^/index.html](index.html) file for game
+[index.html](index.htmll) file for game
